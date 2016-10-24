@@ -1,2 +1,4 @@
 # hello-world
-github boot campt
+github boot camp
+
+I friends.
